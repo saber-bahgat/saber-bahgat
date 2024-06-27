@@ -1,6 +1,3 @@
-Here's the updated bio with your current focus:
-
----
 
 **🌟 Aspiring Back-End Developer 🌟**
 
