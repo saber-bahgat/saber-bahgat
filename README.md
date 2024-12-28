@@ -1,4 +1,3 @@
-التنسيق مع الفواصل بين الأقسام كالتالي:
 
 ---
 
@@ -23,5 +22,3 @@ I'm a passionate beginner in cybersecurity, driven by a strong interest in ethic
 - Exploring bug bounty platforms like HackerOne and Bugcrowd.
 
 --- 
-
-الآن كل قسم مفصول بشكل مرتب وواضح!
