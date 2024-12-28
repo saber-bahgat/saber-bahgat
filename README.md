@@ -1,20 +1,22 @@
+**🌟 Aspiring Bug Hunter 🌟**
 
-**🌟 Aspiring Back-End Developer 🌟**
-
-**👤 About Me:**  
-I'm a passionate beginner in programming, driven by a strong interest in developing back-end systems. With foundational knowledge in Python, SQL, and Git, I'm committed to building a solid career in back-end development.
+**👤 About Me:**
+I'm a passionate beginner in cybersecurity, driven by a strong interest in ethical hacking and bug hunting. With foundational knowledge in Python, HTML/JavaScript, SQL, and basic networking and Linux skills, I'm committed to discovering vulnerabilities and improving security.
 
 **🔧 Skills:**
-- **Python:** Proficient in writing clean and efficient code.
-- **SQL:** Basic understanding of database management and queries.
-- **Git:** Familiar with version control and collaboration.
+
+  **Python:** Proficient in scripting and automating tasks.
+  **HTML/JavaScript:** Solid understanding of web development basics and front-end scripting.
+  **SQL:** Strong foundation in database management and writing queries.
+  **Linux:** Familiar with basic commands and system management.
+  **Networking:** Knowledge of routing, switching, and basic network protocols.
 
 **🎯 Goals:**
-- **Back-End Development:** Eager to specialize in creating robust server-side applications using Python.
-- **Continuous Learning:** Always looking to expand my knowledge and adopt best practices in the field.
+
+  **Bug Hunting:** Focused on identifying vulnerabilities like XSS and SQL Injection.
+  **Continuous Learning:** Always looking to expand my knowledge and adopt best practices in cybersecurity.
 
 **📚 Current Focus:**
-- Deepening my understanding of SQL.
-- Learning the Django framework for back-end development.
 
----
+  Enhancing my skills in vulnerability assessment.
+  Exploring bug bounty platforms like HackerOne and Bugcrowd.
